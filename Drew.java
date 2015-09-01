@@ -9,7 +9,7 @@ public String getFavoriteFood() {
 }
 
 public void sayCatchphrase() {
-	system.out.print("You're only as good as your second serve");
+	System.out.println("You're only as good as your second serve");
 }
 
 }

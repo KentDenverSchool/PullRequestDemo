@@ -28,4 +28,5 @@ public class Niyi implements Student
 
     System.out.println("Yeet!");
 
-    }
+}    
+}

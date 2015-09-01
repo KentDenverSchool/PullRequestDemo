@@ -1,16 +1,16 @@
-public class Travis impliments Student{
+public class Travis implements Student{
 
 
   public String getName (){
-    return String "Travis";
+    return "Travis";
 
   }
-  public String getFavoriteFood)(){
-    return String "Crepes";
+  public String getFavoriteFood(){
+    return "Crepes";
   }
 
   public void sayCatchphrase(){
-     system.out.print("not my chair not my problem");
+     System.out.println("not my chair not my problem");
   }
 
 }

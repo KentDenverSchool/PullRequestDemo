@@ -1,10 +1,10 @@
 public class Sarah implements Student
 {
-    public string getname(){
+    public String getname(){
       return "Sarah Levy";
     }
 
-    public string getFavoriteFood(){
+    public String getFavoriteFood(){
       return "chocolate";
     }
     public void sayCatchphrase() {
