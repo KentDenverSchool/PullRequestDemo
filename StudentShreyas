@@ -1,7 +1,7 @@
 +public class Shreyas implements Student
 +{
 +    public string getname(){
-+      return "Shreyas Gupta";
++      return "ShreyasGupta";
 +    }
 +
 +    public string getFavoriteFood(){
