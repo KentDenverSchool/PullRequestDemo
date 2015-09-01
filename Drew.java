@@ -1,6 +1,15 @@
-Public class Drew implements Student {
+public class Drew implements Student {
 
-// I totally forgot how to implement lmao
+public String getName() {
+	return "Drew";
+}
 
+public String getFavoriteFood() {
+	return "Eggs Bennedict";
+}
+
+public void sayCatchphrase() {
+	system.out.print("You're only as good as your second serve");
+}
 
 }
