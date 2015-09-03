@@ -1,10 +1,10 @@
 public class Shreyas implements Student
 {
-    public string getname(){
+    public String getname(){
       return "Shreyas Gupta";
     }
 
-    public string getFavoriteFood(){
+    public String getFavoriteFood(){
       return "Ravioli";
     }
     public void sayCatchphrase() {
