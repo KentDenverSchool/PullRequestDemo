@@ -10,7 +10,7 @@ public class Travis implements Student{
   }
 
   public void sayCatchphrase(){
-     System.out.println("not my chair not my problem");
+     System.out.print("not my chair not my problem");
   }
 
 }
