@@ -1,0 +1,13 @@
++public class Fahim implements Student
++{
++    public string getname(){
++      return "Fahim Choudhury";
++    }
++
++    public string getFavoriteFood(){
++      return "Beef Tongue";
++    }
++    public void sayCatchphrase() {
++      System.out.println("rip");
++    }
++}
