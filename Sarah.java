@@ -1,6 +1,6 @@
 public class Sarah implements Student
 {
-    public String getname(){
+    public String getName(){
       return "Sarah Levy";
     }
 
