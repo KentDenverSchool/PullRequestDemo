@@ -1,20 +1,13 @@
 public class Conner implements Student{
-  String name;
-  String favoriteFood;
-  String catchPhrase;
 
-  public Conner(String n, String f, String c){
-    name = n;
-    favoriteFood = f;
-    catchPhrase = c;
-  }
+
   public String getName(){
-    return name;
+    return "Conner";
   }
   public String getFavoriteFood(){
-    return favoriteFood;
+    return "Pizza";
   }
-  public String sayCatchphrase(){
-    System.out.println("\""+catchPhrase+"\"");
+  public void sayCatchphrase(){
+    System.out.println("Yeet!");
   }
 }

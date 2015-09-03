@@ -6,7 +6,7 @@ public class Driver {
 		s.add(new Drew());
 		s.add(new Travis());
 		s.add(new wmckissick());
-		s.add(new Conner(null, null, "Bite me"));
+		s.add(new Conner());
 		s.add(new Niyi(null, null, "Curse you!"));
 		s.add(new FahimChoudhury());
 		s.add(new Shreyas());
