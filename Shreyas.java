@@ -1,6 +1,6 @@
 public class Shreyas implements Student
 {
-    public String getname(){
+    public String getName(){
       return "Shreyas Gupta";
     }
 
